@@ -1,5 +1,5 @@
 const dialog = document.querySelector(".messages")
-const message = document.querySelector(".messages__text")
+const message = document.querySelector(".messages__item")
 const eventHub = document.querySelector(".container")
 
 export const artistEventClickHandler = () => {
